@@ -18,3 +18,5 @@
 
 ## PROMPT: "LOST" multicolor 3d render of old wooden sign in forest with text ["LOST"] by @jellygummies created at future in high resolution, with funny feeling --ar 4:3 --v 3 --q 2
 ![petermurguera1234_LOST_multicolor_3d_render_of_old_wooden_sign__c59adf13-9cd8-4f37-bbed-ef8bec078480](https://user-images.githubusercontent.com/1816430/187448221-c269d30b-b06e-4ec7-bb3b-d4954549b176.png)
+
+![petermurguera1234_LOST_multicolor_3d_render_of_old_wooden_sign__b0539000-b7a1-486b-b5dc-00a60174c166](https://user-images.githubusercontent.com/1816430/187450993-b5ca11dd-52d5-450d-ba6e-d0d9a6593aaf.png)
