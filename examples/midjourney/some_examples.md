@@ -20,3 +20,17 @@
 ![petermurguera1234_LOST_multicolor_3d_render_of_old_wooden_sign__c59adf13-9cd8-4f37-bbed-ef8bec078480](https://user-images.githubusercontent.com/1816430/187448221-c269d30b-b06e-4ec7-bb3b-d4954549b176.png)
 
 ![petermurguera1234_LOST_multicolor_3d_render_of_old_wooden_sign__b0539000-b7a1-486b-b5dc-00a60174c166](https://user-images.githubusercontent.com/1816430/187450993-b5ca11dd-52d5-450d-ba6e-d0d9a6593aaf.png)
+
+## PROMPT: bronce 3d render of inca mask pottery  created at future in high resolution, with intrepid feeling --ar 3:4 --v 3
+![petermurguera1234_bronce_3d_render_of_inca_mask_pottery_created_d9bf2c0c-438f-4c64-afbc-4c1634cd83bf](https://user-images.githubusercontent.com/1816430/187452653-07cfcdab-b770-4405-b4bb-a36a7b26b935.png)
+
+![petermurguera1234_bronce_3d_render_of_inca_mask_pottery_created_f1a3950b-c01e-44b7-8726-1420ab7129b7](https://user-images.githubusercontent.com/1816430/187453147-fd401f38-2eba-4e3a-a352-38cc55f10d57.png)
+
+## PROMPT: https://upload.wikimedia.org/wikipedia/commons/4/4f/Silvina_Moreno_en_La_Despedida_%28cropped%29.jpg female singer playing guitar, by Serial Experiments Lain created at contemporary in high resolution and with ultra long shot, with inspiring happy intense feeling, Graphite
+![petermurguera1234_female_singer_playing_guitar_by_Serial_Experi_38914df9-d940-4142-9938-327d9677b454](https://user-images.githubusercontent.com/1816430/187453621-2562d837-79e6-417d-8d8b-bac746829f87.png)
+
+## PROMPT: (https://upload.wikimedia.org/wikipedia/commons/4/4f/Silvina_Moreno_en_La_Despedida_%28cropped%29.jpg) hyper realistic photograph, portrait of a female singer playing guitar, created at contemporary in high resolution and with ultra long shot, with inspiring happy intense feeling, volumetric lighting, ultrahd, cinematic, cinema, octane render, perfectionism, unreal engine 5, technically precise lines, max resolution, pristine mynute details, photo characteristics, octane rendering --iw 0.9 --ar 9:16 --v 3 --uplight
+![petermurguera1234_hyper_realistic_photograph_portrait_of_a_fema_ffc27c54-ed07-4454-a50c-48db976e0d0f](https://user-images.githubusercontent.com/1816430/187453919-ac5f5bd0-d0bd-4685-9b69-f7bba5b5cef5.png)
+
+![petermurguera1234_hyper_realistic_photograph_portrait_of_a_fema_26db76de-5d1a-4e54-823d-83cce930d896](https://user-images.githubusercontent.com/1816430/187454093-0a358592-fa71-42f2-8dc8-b405f601c0ff.png)
+
