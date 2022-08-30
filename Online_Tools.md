@@ -10,7 +10,7 @@
 - [Prompt Template Google Doc](https://docs.google.com/document/d/e/2PACX-1vRHOxyEb-ERGi-BdZM8Z_piEP54m4HwO0z8scjmEurEp2UZVA6rFxvyKd15elYVHUWfP1oSA4CQFwxr/pub?utm_source=docs.google.com&utm_medium=tutorial&utm_campaign=midjourney)
 - [Alt](https://docs.google.com/document/d/13c8Ci-8kU2PVZu6DKghlhOOrbf4kmtc9xxCJAnPqvC0/edit)
 - [A Guide to Writing Prompts for Text-to-image AI](https://docs.google.com/document/d/1XUT2G9LmkZataHFzmuOtRXnuWBfhvXDAo8DkS--8tec/edit)
-- [Ificial Doc Tips for Text-Prompts](https://midjourney.gitbook.io/docs/resource-links/guide-to-prompting#try-visually-well-defined-objects)
+- [Oficial Doc Tips for Text-Prompts](https://midjourney.gitbook.io/docs/resource-links/guide-to-prompting#try-visually-well-defined-objects)
 
 ## Style Guides
 - [Understanding Midjourney Prompt Combinations and Weights](https://docs.google.com/document/d/e/2PACX-1vSIWlr5F6J4yv4jxazaXcZaI-F3MxCsnSq4jwoaO3vaEYC911v2N7JpDgjuhAUVYhq4VmA1SCjF3rdK/pub)
