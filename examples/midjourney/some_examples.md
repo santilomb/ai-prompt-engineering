@@ -13,3 +13,8 @@
 ![petermurguera1234_multicolor_photo_of_lucy_in_a_cloudy_sky_with_b12f567d-43e9-46fb-8475-6bb1d2eb1a67](https://user-images.githubusercontent.com/1816430/187438604-05e9cacb-a535-49e3-b20f-f87859cd294c.png)
 
 ![petermurguera1234_multicolor_photo_of_lucy_in_a_cloudy_sky_with_f204daa1-e765-42d3-a71d-722a84eebf0e](https://user-images.githubusercontent.com/1816430/187439584-a64e385d-4818-4624-bd7e-0834890fc013.png)
+
+
+
+## PROMPT: "LOST" multicolor 3d render of old wooden sign in forest with text ["LOST"] by @jellygummies created at future in high resolution, with funny feeling --ar 4:3 --v 3 --q 2
+![petermurguera1234_LOST_multicolor_3d_render_of_old_wooden_sign__c59adf13-9cd8-4f37-bbed-ef8bec078480](https://user-images.githubusercontent.com/1816430/187448221-c269d30b-b06e-4ec7-bb3b-d4954549b176.png)
