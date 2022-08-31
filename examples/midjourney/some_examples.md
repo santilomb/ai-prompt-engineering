@@ -34,3 +34,5 @@
 
 ![petermurguera1234_hyper_realistic_photograph_portrait_of_a_fema_26db76de-5d1a-4e54-823d-83cce930d896](https://user-images.githubusercontent.com/1816430/187454093-0a358592-fa71-42f2-8dc8-b405f601c0ff.png)
 
+## PROMPT: ultra realistic very detailed photo of patagonian landscape, spring time, colorfull, realistic photo --ar 9:16
+![testagus123_ultra_realistic_very_detailed_photo_of_patagonian_l_59fa71b0-ee63-4f44-8a51-e52a0367f84b](https://user-images.githubusercontent.com/1816430/187737150-71680a6c-99d0-44a7-9361-5535043c3e28.png)
