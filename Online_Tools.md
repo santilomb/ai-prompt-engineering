@@ -22,3 +22,6 @@
 ## Text in MidJourney
 ![midjourney-text-placement-suggestion-shambibble](https://user-images.githubusercontent.com/1816430/187428223-8c008140-d4f4-442c-8e88-817b36b4467f.jpg)
 
+## Prompt browser
+
+[Search over 5M+ Stable Diffusion images and prompts](https://lexica.art/)
