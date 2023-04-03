@@ -1,0 +1,23 @@
+{
+  "personas": [
+    {
+      "id": 1,
+      "nombre": "Santiago"
+    },
+    {
+      "id": 2,
+      "nombre": "Martin"
+    }
+      
+  ],
+  "arboles": [
+    {
+      "id": 1,
+      "nombre": "Alamo"
+    },
+    {
+      "id": 2,
+      "nombre": "Roble"
+    }
+  ]
+}
